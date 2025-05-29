@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Song One",
+    "url": "/audio/song1.mp3"
+  },
+  {
+    "title": "Song Two",
+    "url": "/audio/song2.mp3"
+  }
+]
